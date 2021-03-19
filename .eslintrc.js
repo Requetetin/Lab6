@@ -21,6 +21,7 @@ module.exports = {
     'semi': [2, 'never'],
     'react/react-in-jsx-scope': 'off',
     'react/jsx-filename-extension': 'off',
+    'react/prop-types': 'off',
   },
   globals: {
     "React": true,
